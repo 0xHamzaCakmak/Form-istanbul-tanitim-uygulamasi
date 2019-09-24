@@ -1,0 +1,16 @@
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Form Mini istanbul.exe.config
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Form Mini istanbul.exe
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Form Mini istanbul.pdb
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form Mini istanbul.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.Properties.Resources.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form Mini istanbul.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form Mini istanbul.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form Mini istanbul.exe
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form Mini istanbul.pdb
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmAnasayfa.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmCamiler.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmHarita.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmCamera.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmMetro.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmMetrobus.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmNealınır.resources
