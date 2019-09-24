@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Form_Mini_istanbul
 {
-    public partial class FrmNeyir : Form
+    public partial class FrmNeyenir : Form
     {
-        public FrmNeyir()
+        public FrmNeyenir()
         {
             InitializeComponent();
         }

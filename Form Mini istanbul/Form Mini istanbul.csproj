@@ -88,11 +88,11 @@
     <Compile Include="FrmNealınır.Designer.cs">
       <DependentUpon>FrmNealınır.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmNeyir.cs">
+    <Compile Include="FrmNeyenir.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmNeyir.Designer.cs">
-      <DependentUpon>FrmNeyir.cs</DependentUpon>
+    <Compile Include="FrmNeyenir.Designer.cs">
+      <DependentUpon>FrmNeyenir.cs</DependentUpon>
     </Compile>
     <Compile Include="Kopruler.cs">
       <SubType>Form</SubType>
@@ -123,8 +123,8 @@
     <EmbeddedResource Include="FrmNealınır.resx">
       <DependentUpon>FrmNealınır.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmNeyir.resx">
-      <DependentUpon>FrmNeyir.cs</DependentUpon>
+    <EmbeddedResource Include="FrmNeyenir.resx">
+      <DependentUpon>FrmNeyenir.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Kopruler.resx">
       <DependentUpon>Kopruler.cs</DependentUpon>
