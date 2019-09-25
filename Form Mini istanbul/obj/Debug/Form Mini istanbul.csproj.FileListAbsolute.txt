@@ -14,3 +14,16 @@ C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form
 C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmMetro.resources
 C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmMetrobus.resources
 C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmNealınır.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmNeyenir.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.Kopruler.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmMüzeler.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmKorular.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmCarsilar.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.Frmcevahir.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmAdalar.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form_Mini_istanbul.FrmFotograflar.resources
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Interop.WMPLib.dll
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Interop.WMPLib.dll
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\obj\Debug\Form Mini istanbul.csproj.ResolveComReference.cache

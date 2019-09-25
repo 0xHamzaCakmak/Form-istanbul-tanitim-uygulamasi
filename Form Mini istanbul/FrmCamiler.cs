@@ -51,7 +51,7 @@ namespace Form_Mini_istanbul
                 richTextBox1.Text = oku["yeniCami"].ToString();
             }
             baglanti.Close();
-            pictureBox1.ImageLocation = @"‪C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Camiler\yenicami.jpg";
+            pictureBox1.ImageLocation = @"C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Camiler\yenicm.jpg";
             webBrowser1.Navigate("https://www.google.com/maps/search/yeni+cami/@38.3823086,34.0132038,13z/data=!3m1!4b1");
         }
 
@@ -65,7 +65,7 @@ namespace Form_Mini_istanbul
                 richTextBox1.Text = oku["ayasofyaCami"].ToString();
             }
             baglanti.Close();
-            pictureBox1.ImageLocation = @"‪C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Camiler\ayasofya.jpg";
+            pictureBox1.ImageLocation = @"C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Camiler\ayasofya.jpg";
             webBrowser1.Navigate("https://www.google.com/maps/place/Ayasofya+Müzesi/@41.008583,28.9779863,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab9be92011c27:0x236e6f6f37444fae!8m2!3d41.008583!4d28.980175");
         }
 
@@ -79,7 +79,7 @@ namespace Form_Mini_istanbul
                 richTextBox1.Text = oku["ortakoycami"].ToString();
             }
             baglanti.Close();
-            pictureBox1.ImageLocation = @"‪C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Camiler\ortakoy.jpg";
+            pictureBox1.ImageLocation = @"C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Camiler\ortky.jpg";
             webBrowser1.Navigate("https://www.google.com/maps/place/B%C3%BCy%C3%BCk+Mecidiye+Camii+(Ortak%C3%B6y+Camii)/@41.0472515,29.0248203,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab7c8e42887ad:0xfd73f2a29eafc8bc!8m2!3d41.0472515!4d29.027009");
         }
 
@@ -93,7 +93,7 @@ namespace Form_Mini_istanbul
                 richTextBox1.Text = oku["fatihCami"].ToString();
             }
             baglanti.Close();
-            pictureBox1.ImageLocation = @"‪C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Camiler\fatih.jpg";
+            pictureBox1.ImageLocation = @"C:\Users\reela\source\repos\Form Mini istanbul\Form Mini istanbul\bin\Debug\Camiler\fatih.jpg";
             webBrowser1.Navigate("https://www.google.com/maps/search/fatih+cami/@38.3823086,34.0132038,13z/data=!3m1!4b1");
         }
 

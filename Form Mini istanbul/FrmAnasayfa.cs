@@ -70,5 +70,66 @@ namespace Form_Mini_istanbul
             neal.Show();
             this.Hide();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Kopruler kpr = new Kopruler();
+            kpr.Show();
+            this.Hide();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            FrmMüzeler muze = new FrmMüzeler();
+            muze.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FrmKorular koru = new FrmKorular();
+            koru.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FrmCarsilar carsi = new FrmCarsilar();
+            carsi.Show();
+            this.Hide();
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            FrmNeyenir neyenir = new FrmNeyenir();
+            neyenir.Show();
+            this.Hide();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            FrmFotograflar foto = new FrmFotograflar();
+            foto.Show();
+           // this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Frmcevahir cevo = new Frmcevahir();
+            cevo.Show();
+            this.Hide();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            FrmAdalar ada = new FrmAdalar();
+            ada.Show();
+            this.Hide();
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Mini İstanbul Programı c# dersleri için yapılmış olup, İstanbul Şehir Rehberi Niteliğindedir...");
+        }
     }
 }

@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmAdalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdalar.Designer.cs">
+      <DependentUpon>FrmAdalar.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmAnasayfa.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,11 +70,35 @@
     <Compile Include="FrmCamiler.Designer.cs">
       <DependentUpon>FrmCamiler.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCarsilar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCarsilar.Designer.cs">
+      <DependentUpon>FrmCarsilar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmcevahir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmcevahir.Designer.cs">
+      <DependentUpon>Frmcevahir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFotograflar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFotograflar.Designer.cs">
+      <DependentUpon>FrmFotograflar.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmHarita.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmHarita.Designer.cs">
       <DependentUpon>FrmHarita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKorular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKorular.Designer.cs">
+      <DependentUpon>FrmKorular.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmMetro.cs">
       <SubType>Form</SubType>
@@ -81,6 +111,12 @@
     </Compile>
     <Compile Include="FrmMetrobus.Designer.cs">
       <DependentUpon>FrmMetrobus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMüzeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMüzeler.Designer.cs">
+      <DependentUpon>FrmMüzeler.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmNealınır.cs">
       <SubType>Form</SubType>
@@ -102,6 +138,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAdalar.resx">
+      <DependentUpon>FrmAdalar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmAnasayfa.resx">
       <DependentUpon>FrmAnasayfa.cs</DependentUpon>
     </EmbeddedResource>
@@ -111,14 +150,29 @@
     <EmbeddedResource Include="FrmCamiler.resx">
       <DependentUpon>FrmCamiler.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmCarsilar.resx">
+      <DependentUpon>FrmCarsilar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmcevahir.resx">
+      <DependentUpon>Frmcevahir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFotograflar.resx">
+      <DependentUpon>FrmFotograflar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmHarita.resx">
       <DependentUpon>FrmHarita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKorular.resx">
+      <DependentUpon>FrmKorular.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMetro.resx">
       <DependentUpon>FrmMetro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMetrobus.resx">
       <DependentUpon>FrmMetrobus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMüzeler.resx">
+      <DependentUpon>FrmMüzeler.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmNealınır.resx">
       <DependentUpon>FrmNealınır.cs</DependentUpon>
@@ -150,6 +204,25 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
